@@ -9,3 +9,7 @@ yarn add next
 yarn add next-auth
 yarn add bcryptjs
 ```
+
+
+## Icons
+https://heroicons.com/
