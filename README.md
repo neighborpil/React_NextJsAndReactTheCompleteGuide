@@ -13,3 +13,10 @@ yarn add bcryptjs
 
 ## Icons
 https://heroicons.com/
+
+
+### packages
+- SWR: make it easy to data fetching at the client side.
+```
+% yarn add dev
+```
